@@ -8,11 +8,7 @@ Este conjunto de archivos tiene como objetivo mostrar varias simulaciones cinema
      - Cinematica Inversa
    - Trayectoria
    - Simulacion Pierna robotica
-2. Robot 4 Piernas
+2. Robot 4 y 6 patas
    - Construccion robot
    - Configuracion de movimiento
    - Simulacion Robot 4 piernas
-3. Robot 6 Piernas
-   - Construccion robot
-   - Configuracion de movimiento
-   - Simulacion Robot 6 piernas
